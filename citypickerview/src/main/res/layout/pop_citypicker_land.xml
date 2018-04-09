@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_title_background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="#E9E9E9"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#cccccc">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/add_title_background"
+            android:gravity="center"
+            android:text="@string/add_city"
+            android:textColor="#0E73BA"
+            android:textSize="@dimen/city_dialog_title_textsize" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_title"
+        android:layout_width="@dimen/city_dialog_width_land"
+        android:layout_height="@dimen/city_dialog_height_land"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.dcx.style.citypickerview.widget.wheel.WheelView
+            android:id="@+id/id_province"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1">
+
+        </com.dcx.style.citypickerview.widget.wheel.WheelView>
+
+        <com.dcx.style.citypickerview.widget.wheel.WheelView
+            android:id="@+id/id_city"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1">
+
+        </com.dcx.style.citypickerview.widget.wheel.WheelView>
+
+        <com.dcx.style.citypickerview.widget.wheel.WheelView
+            android:id="@+id/id_district"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1">
+
+        </com.dcx.style.citypickerview.widget.wheel.WheelView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/tv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/city_dialog_margin"
+            android:layout_weight="1"
+            android:background="#0E73BA"
+            android:text="@string/add_city_cancel"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/city_dialog_button_textsize" />
+
+        <Button
+            android:id="@+id/tv_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/city_dialog_margin"
+            android:layout_weight="1"
+            android:background="#0E73BA"
+            android:text="@string/add_city_sure"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/city_dialog_button_textsize" />
+    </LinearLayout>
+</LinearLayout>
+
+

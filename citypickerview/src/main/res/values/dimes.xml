@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="city_dialog_margin">1dp</dimen>
+    <dimen name="city_dialog_button_textsize">14sp</dimen>
+    <dimen name="city_dialog_title_textsize">24sp</dimen>
+    <dimen name="city_dialog_width">288dp</dimen>
+    <dimen name="city_dialog_height">162dp</dimen>
+    <dimen name="city_name_textsize">11sp</dimen>
+    <dimen name="city_dialog_width_land">252dp</dimen>
+    <dimen name="city_dialog_height_land">144dp</dimen>
+</resources>

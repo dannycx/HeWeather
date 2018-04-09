@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_smart_name">SmartSpeakDock</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_title">Menu</string>
+    <string name="weather_title">Weather</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="music_title">Musics</string>
+    <string name="shopping_title">Shopping</string>
+    <string name="map_title">BaiduMap</string>
+    <string name="baiduAI_title">BaiduAIVoice</string>
+    <string name="setting_title">Setting</string>
+    //drawer
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    //shopping web loading
+    <string name="web_title_loading">Loading</string>
+    <string name="web_message_loading">Please wait...</string>
+    <string name="web_sites_not_exists">Sorry,this websites not exists</string>
+
+    //weather loading
+    <string name="get_weather_info_error">get weather info error</string>
+    <string name="weather_loading_dialog">Loading Weather...</string>
+    <string name="weather">Weather</string>
+    <string name="weather_weather">Weather:</string>
+    <string name="weather_tomorrow">Tomorrow:</string>
+    <string name="weather_after">Acquired:</string>
+    <string name="weather_wash_car">Wash_Car:</string>
+    <string name="weather_clothes">Clothes:</string>
+    <string name="weather_air">Air:</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="weather_index_of_living">Index Of Living</string>
+    <string name="weather_air_quality">Air Quality</string>
+    <string name="weather_week_monday">MON</string>
+    <string name="weather_week_tuesday">TUE</string>
+    <string name="weather_air_not_support">Air quality queries in the area are not currently supported</string>
+    <string name="weather_add_city_sure">OK</string>
+    <string name="weather_add_city_cancel">CANCEL</string>
+    <string name="weather_add_city">ADD CITY</string>
+    <string name="weather_cancel_select_city">Deselect city</string>
+
+    //network error
+    <string name="network_not_connected">Not any network connected,please set it，and drag out to refresh the interface</string>
+
+    //setting
+    <string name="voice_switch_on_off">voice switch on or off</string>
+    <string name="voice_switch_on_text">on</string>
+    <string name="voice_switch_off_text">off</string>
+    <string name="bind_device">bind device</string>
+    <string name="about">about</string>
+    <string name="version">Version</string>
+    //calendar
+    <string name="year">year</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="add_event">Add event</string>
+    <string name="sure">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="now">now</string>
+    <string name="lunar_calendar">lunar calendar</string>
+    <string name="yes">is</string>
+    <string name="is_the_weekend">is the weekend</string>
+    <string name="is_usual_day">is usual day</string>
+    <string name="no_arrangement">no arrangement</string>
+    <string name="please_select_date">please select date</string>
+    <string name="please_add_event">please add event</string>
+    <string name="delete">delete</string>
+    <string name="january">,January</string>
+    <string name="february">,February</string>
+    <string name="march">,March</string>
+    <string name="april">,April</string>
+    <string name="may">,May</string>
+    <string name="june">,June</string>
+    <string name="july">,July</string>
+    <string name="augest">,Augest</string>
+    <string name="september">,September</string>
+    <string name="october">,October</string>
+    <string name="november">,November</string>
+    <string name="december">,December</string>
+    //splash
+    <string name="Shenzhen">Shenzhen</string>
+    <string name="life_car">Wash_Car：较适宜</string>
+    <string name="life_clothes">Clothes：较冷</string>
+    <string name="wash_car">Wash_Car</string>
+    <string name="clothes">Clothes</string>
+</resources>

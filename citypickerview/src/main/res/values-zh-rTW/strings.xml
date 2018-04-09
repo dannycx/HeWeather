@@ -1,0 +1,5 @@
+<resources>
+    <string name="add_city_sure">確定</string>
+    <string name="add_city_cancel">取消</string>
+    <string name="add_city">添加城市</string>
+</resources>

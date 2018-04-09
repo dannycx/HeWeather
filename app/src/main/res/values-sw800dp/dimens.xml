@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //weather
+    <dimen name="city_dialog_button_textsize">32sp</dimen>
+    <dimen name="city_dialog_title_textsize">53sp</dimen>
+    <dimen name="weather_three_little_title_textsize">40sp</dimen>
+    <dimen name="weather_city_textSize">67sp</dimen>
+    <dimen name="weather_city_below_textSize">32sp</dimen>
+    <dimen name="weather_basic_textsize">24sp</dimen>//字体
+    <dimen name="weather_now_icon_imagesize">294dp</dimen>//天气大图标大小
+    <dimen name="weather_now_icon_marginbottom">24dp</dimen>//天气大图标底外边距
+    <dimen name="weather_now_icon_right_line_height">318dp</dimen>//天气大图标右侧线高度
+    <dimen name="weather_line">1dp</dimen>//线
+    <dimen name="weather_now_weather_marginleft">100dp</dimen>//天气信息距左侧线的距离
+    <dimen name="weather_now_tem_margintop">16dp</dimen>//最高最低温度与城市间距
+    <dimen name="weather_now_weather_margintop">12dp</dimen>//最高最低温度与天气(阴)间距
+    <dimen name="weather_below_icon_marginbottom">11dp</dimen>//低部图标距底间距
+    <dimen name="weather_below_icon_point_marginbottom">23dp</dimen>//底部点距底部距离
+    <dimen name="weather_below_icon_point_margin">19dp</dimen>//底部点间间距
+
+    //weather land
+    <dimen name="weather_land_now_icon_marginleft">240dp</dimen>//天气大图标左外边距
+    <dimen name="weather_land_now_icon_margintop">35dp</dimen>//天气大图标顶外边距
+    <dimen name="weather_land_now_icon_marginright">104dp</dimen>//天气大图标右外边距
+    <dimen name="weather_land_add_margintop">4dp</dimen>//添加事件顶边距
+    <dimen name="weather_land_add_marginright">46dp</dimen>//添加事件右边距
+    <dimen name="weather_land_now_icon_below_line_width">944dp</dimen>//天气大图标底线宽度
+    <dimen name="weather_land_now_icon_below_line_margin_right_left">168dp</dimen>//天气大图标底线左右边距
+    <dimen name="weather_land_line_below_margintop">20dp</dimen>//线与线下文字间距
+    <dimen name="weather_land_tomorrow_margintop">27dp</dimen>//天气小标题与第一行文字间距
+    <dimen name="weather_land_tomorrow_weather_margintop">20dp</dimen>//天气预报行间距
+    <dimen name="weather_land_tomorrow_line_height">144dp</dimen>//天气预报线高度
+    <dimen name="weather_land_tomorrow_line_marginleft">31dp</dimen>//天气预报与右侧线间距
+    <dimen name="weather_land_tomorrow_line_marginright">24dp</dimen>//线与右侧间距
+    <dimen name="weather_land_life_marginleft">247dp</dimen>//生活指数与天气预报标题间距
+    <dimen name="weather_land_air_marginleft">171dp</dimen>//空气质量与生活指数标题间距
+    <dimen name="weather_land_car_margintop">27dp</dimen>//生活指数小标题与第一行文字间距
+    <dimen name="weather_land_life_air_icon_width_height">34dp</dimen>//小图标大小
+    <dimen name="weather_image_text_margin">14dp</dimen>图标与文字间距
+    //weather vertical
+    <dimen name="weather_vertical_now_icon_marginleft">77dp</dimen>//天气大图标左外边距
+    <dimen name="weather_vertical_now_icon_margintop">107dp</dimen>//天气大图标顶外边距
+    <dimen name="weather_vertical_now_icon_marginright">46dp</dimen>//天气大图标右外边距
+    <dimen name="weather_vertical_little_title_left_right">173dp</dimen>
+    <dimen name="weather_vertical_line_below_margintop">20dp</dimen>//线与线下文字间距
+    <dimen name="weather_vertical_car_margintop">16dp</dimen>//生活指数小标题与第一行文字间距
+    <dimen name="weather_vertical_add_margintop">20dp</dimen>//添加事件顶边距
+    <dimen name="weather_vertical_add_marginright">27dp</dimen>//添加事件右边距
+    <dimen name="weather_vertical_now_icon_right_line_height">317dp</dimen>//天气大图标右线高度
+    <dimen name="weather_vertical_now_icon_below_line_right_left">39dp</dimen>//天气大图标底线左右边距
+    <dimen name="weather_vertical_forecast_margin">13dp</dimen>//生活指数小标题与第一行文字间距
+    <dimen name="weather_vertical_basic_textsize">30sp</dimen>//字体
+</resources>

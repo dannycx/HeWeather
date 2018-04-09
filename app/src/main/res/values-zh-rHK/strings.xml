@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_smart_name">HeWeather</string>
+
+    //weather loading
+    <string name="get_weather_info_error">獲取天氣信息失敗</string>
+    <string name="weather_loading_dialog">加載天氣中...</string>
+    <string name="weather">天氣</string>
+    <string name="weather_weather">天氣：</string>
+    <string name="weather_tomorrow">明天：</string>
+    <string name="weather_after">後天：</string>
+    <string name="weather_wash_car">洗車：</string>
+    <string name="weather_clothes">穿衣：</string>
+    <string name="weather_air">空氣：</string>
+    <string name="weather_forecast">天氣預報</string>
+    <string name="weather_index_of_living">生活指數</string>
+    <string name="weather_air_quality">空氣質量</string>
+    <string name="weather_week_monday">周一</string>
+    <string name="weather_week_tuesday">周二</string>
+    <string name="weather_air_not_support">目前不支持該地區空氣質量查詢</string>
+    <string name="weather_add_city_sure">確定</string>
+    <string name="weather_add_city_cancel">取消</string>
+    <string name="weather_add_city">添加城市</string>
+    <string name="weather_cancel_select_city">取消選擇城市</string>
+
+    //network error
+    <string name="network_not_connected">網頁未連接，無法顯示，聯網後，往下拖動頁面刷新</string>
+</resources>

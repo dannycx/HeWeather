@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HeWeather</string>
+
+    //weather loading
+    <string name="get_weather_info_error">获取天气信息失败</string>
+    <string name="weather_loading_dialog">加载天气中...</string>
+    <string name="weather">天气</string>
+    <string name="weather_tomorrow">明天：</string>
+    <string name="weather_after">后天：</string>
+
+    //network error
+    <string name="network_not_connected">网络未连接，页面无法显示,联网后，往下拖动页面刷新</string>
+</resources>
